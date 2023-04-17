@@ -184,9 +184,13 @@ a:hover{
 }
 
 .dial{
-  width: 47%;
+  width: 710px;
   
-  
+}
+@media (max-width:900px) {
+  .dial{
+    width: 600px;
+  }
 }
 
 .larger_view{
@@ -232,7 +236,7 @@ a:hover{
 }
 
 .last-line{
-  width: 29%;
+  width: 15%;
 }
 
 .marketing_background{
@@ -313,7 +317,7 @@ a:hover{
 
 .bottom-container{
 
-  background-color: #66bfbf;
+  background-color: #262050;
   padding: 30px 0px 20px;
 
 
