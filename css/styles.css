@@ -243,8 +243,11 @@ a:hover{
   position: absolute;
   display: flex;
   color: white;
-  left: 80px;
+  left: 50px;
   padding-top: 10px;
+  
+  
+  
 }
 
 .top-heading{
