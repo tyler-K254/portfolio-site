@@ -239,6 +239,27 @@ a:hover{
   width: 15%;
 }
 
+.headers{
+  position: absolute;
+  display: flex;
+  color: white;
+  left: 80px;
+  padding-top: 10px;
+}
+
+.top-heading{
+  color: white;
+}
+
+.vertical-line{
+    border-left: 2px solid white;
+    height: 30px;
+   top: 25px;
+    position: relative;
+    /* left: 50%; */
+  
+}
+
 .marketing_background{
   background-color:#c7dcf1;
   width: 1000px;
